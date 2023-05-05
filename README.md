@@ -4,24 +4,47 @@
 <br>
 <h3 align="left">Sobre:</h3>
 <ul>
-<li>Estudando ReactJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/></li>
-<li>Estudando AngularJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="20" height="20"/></li>
-<li>Estudando NodeJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></li>
-<li>Portifolio: Em desenvolvimento...</li>
+ <li>Desenvolvedor Full-Stack em progresso</li>
+ <li>Estudando ReactJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>  </li>
+ <li>Estudando AngularJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="20"      height="20"/></li>
+ <li>Estudando NodeJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>    </li>
+  <li>Portifolio: Em desenvolvimento...</li>
 </ul>
 <h3 align="left">Entre em contato comigo:</h3>
 <ul>
 <li>
+<h3 align="left">LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/nicholas-lacerda-110abb271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/nicholas-lacerda-110abb271" height="30" width="40" /></a>
 </p>
 </li>
 <li>
+<h3>Email:</h3>
 <p align="left">
-Email: <a href"mailto:niicholasdev@gmail.com">niicholasdev@gmail.com</a>
+<a href="mailto:niicholasdev@gmail.com">niicholasdev@gmail.com</a>
 </p>
 </li>
 </ul>
+
+<details>
+  <summary>Um pouco mais sobre mim</summary>
+  
+  
+
+  ```js
+ // Meu ciclo de vida
+ 
+ while (alive)
+ {
+   eat();
+   sleep();
+   study();
+   code();
+   repeat();
+ }
+  
+  ```
+</details>
 <br>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
@@ -33,4 +56,5 @@ Email: <a href"mailto:niicholasdev@gmail.com">niicholasdev@gmail.com</a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devnicolaslacerda&show_icons=true&locale=en" alt="devnicolaslacerda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devnicolaslacerda&" alt="devnicolaslacerda" /></p>
+
 
