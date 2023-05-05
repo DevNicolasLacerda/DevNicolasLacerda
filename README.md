@@ -29,7 +29,9 @@
 <details>
   <summary>Um pouco mais sobre mim</summary>
   
-  
+  <p>
+   Olá me chamo Nicholas um jovem determinado e ávido por aprender. Apesar de não possuir experiência no mercado de trabalho, estou atualmente cursando um curso de Desenvolvimento de Sistemas de nível técnico na Escola Técnica Etec Lauro Gomes, sou altamente motivado e possuo uma vontade inabalável de se desenvolver profissionalmente. Acredito que com minha curiosidade e disposição para enfrentar novos desafios, certamente serei capaz de adquirir rapidamente as habilidades necessárias para realizar com sucesso a função que me for atribuída. Além disso, tenho uma  energia e entusiasmo contagiantes, tais qualidades me tornam um membro valioso para qualquer equipe.
+ </p>
 
   ```js
  // Meu ciclo de vida
