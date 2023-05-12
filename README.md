@@ -18,7 +18,7 @@
 </li>
 <li>
 <h3>Email:</h3>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=href="mailto:niicholasdev@gmail.com">niicholasdev@gmail.com)](href="mailto:niicholasdev@gmail.com">niicholasdev@gmail.com)
+
 </li>
 </ul>
 
