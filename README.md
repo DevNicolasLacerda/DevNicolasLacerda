@@ -15,7 +15,7 @@
 <li>
 <h3 align="left">LinkedIn:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nicholas-lacerda-110abb271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/nicholas-lacerda-110abb271" height="30" width="40" /></a>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igor-matos-oliveira-869a18179/r)
 </p>
 </li>
 <li>
