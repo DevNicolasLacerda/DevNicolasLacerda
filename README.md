@@ -14,7 +14,7 @@
 
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/nicholas-lacerda-110abb271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank" width="100" height="40"></a>
-  <a href="mailto:niicholasdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="100" height="40" padding="15"></a>
+  <a href="mailto:niicholasdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="100" height="40"></a>
   <a href="https://wa.me/5511940663975" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" width="100" height="40"></a>
 </div>
 
