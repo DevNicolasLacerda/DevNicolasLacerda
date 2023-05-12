@@ -15,7 +15,7 @@
 <li>
 <h3 align="left">LinkedIn:</h3>
 <p align="left">
-<button></button>
+
 </p>
 </li>
 <li>
