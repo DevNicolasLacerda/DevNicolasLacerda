@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm NicholasDev</h1>
 <h3 align="center">Sejam bem vindos ao meu perfil!</></h3>
 <br>
-
-<div align="center">
 <h3 align="center">Sobre:</h3>
 <ul>
   <li>Desenvolvedor Full-Stack em progresso</li>
@@ -12,7 +10,6 @@
   <li>Estudando NodeJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>    </li>
   <li>Portifolio: Em desenvolvimento...</li>
 </ul>
-</div>
 <h3 align="left">Entre em contato comigo:</h3>
 
 <div style="display: inline_block"><br>
