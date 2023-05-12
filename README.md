@@ -2,19 +2,25 @@
 <h1 align="center">Hi 👋, I'm NicholasDev</h1>
 <h3 align="center">Sejam bem vindos ao meu perfil!</></h3>
 <br>
-<h3 align="left">Sobre:</h3>
+
+<div align="center">
+<h3 align="center">Sobre:</h3>
 <ul>
- <li>Desenvolvedor Full-Stack em progresso</li>
- <li>Estudando ReactJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>  </li>
- <li>Estudando AngularJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="20"      height="20"/></li>
- <li>Estudando NodeJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>    </li>
+  <li>Desenvolvedor Full-Stack em progresso</li>
+  <li>Estudando ReactJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>  </li>
+  <li>Estudando AngularJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="20"      height="20"/></li>
+  <li>Estudando NodeJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>    </li>
   <li>Portifolio: Em desenvolvimento...</li>
 </ul>
+</div>
 <h3 align="left">Entre em contato comigo:</h3>
 
 <div style="display: inline_block"><br>
- 
-<a href="https://www.linkedin.com/in/nicholas-lacerda-110abb271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nicholas-lacerda-110abb271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank" width="100" height="40"></a>
+  <a href="mailto:niicholasdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="100" height="40"></a>
+  <a href="https://wa.me/5511940663975" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" width="100" height="40"></a>
+</div>
+
 
 ##
 
