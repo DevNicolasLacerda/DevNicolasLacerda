@@ -15,7 +15,7 @@
 <li>
 <h3 align="left">LinkedIn:</h3>
 <p align="left">
-[![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+
 </p>
 </li>
 <li>
