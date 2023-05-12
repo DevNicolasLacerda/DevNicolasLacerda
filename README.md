@@ -13,8 +13,10 @@
 <h3 align="left">Entre em contato comigo:</h3>
 <ul>
 <li>
+ 
 <h3 align="left">LinkedIn:</h3>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-lacerda-110abb271)](https://www.linkedin.com/in/nicholas-lacerda-110abb271)
+ 
 </li>
 <li>
 <h3>Email:</h3>
