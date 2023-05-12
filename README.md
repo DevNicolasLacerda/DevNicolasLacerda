@@ -55,13 +55,14 @@
  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a></p>
 
 <div style="display: inline_block">
-<img align="center" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devnicolaslacerda&show_icons=true&locale=en&layout=compact&theme=dracula" alt="devnicolaslacerda" />
+<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devnicolaslacerda&show_icons=true&locale=en&layout=compact&theme=dracula" alt="devnicolaslacerda" />
 
-<img align="center" height="100em" src="https://github-readme-stats.vercel.app/api?username=devnicolaslacerda&show_icons=true&locale=en&theme=dracula" alt="devnicolaslacerda" />
+<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=devnicolaslacerda&show_icons=true&locale=en&theme=dracula" alt="devnicolaslacerda" />
 
 </div>
+<br>
 <div align="left">
-<img align="center" height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=devnicolaslacerda&theme=dracula" alt="devnicolaslacerda" />
+<img align="center" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=devnicolaslacerda&theme=dracula" alt="devnicolaslacerda" />
 </div>
 
 
