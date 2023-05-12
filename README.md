@@ -18,7 +18,7 @@
 
 </p>
  
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-lacerda-110abb271)](https://www.linkedin.com/in/nicholas-lacerda-110abb271)
 </li>
 <li>
 <h3>Email:</h3>
