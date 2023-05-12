@@ -14,17 +14,11 @@
 <ul>
 <li>
 <h3 align="left">LinkedIn:</h3>
-<p align="left">
-
-</p>
- 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-lacerda-110abb271)](https://www.linkedin.com/in/nicholas-lacerda-110abb271)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-lacerda-110abb271)](https://www.linkedin.com/in/nicholas-lacerda-110abb271)
 </li>
 <li>
 <h3>Email:</h3>
-<p align="left">
-<a href="mailto:niicholasdev@gmail.com">niicholasdev@gmail.com</a>
-</p>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=href="mailto:niicholasdev@gmail.com">niicholasdev@gmail.com)](href="mailto:niicholasdev@gmail.com">niicholasdev@gmail.com)
 </li>
 </ul>
 
