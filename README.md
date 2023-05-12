@@ -15,7 +15,7 @@
 <li>
 <h3 align="left">LinkedIn:</h3>
 <p align="left">
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]
 </p>
 </li>
 <li>
