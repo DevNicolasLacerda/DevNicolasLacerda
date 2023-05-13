@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm NicholasDev</h1>
 <h3 align="center">Sejam bem vindos ao meu perfil!</></h3>
-<img align="center" alt="gif" src="https://giphy.com/embed/ISwSLYQDeowbWumshx" width="480" height="480">
 <br>
 <h3 align="left">Sobre:</h3>
 <ul>
