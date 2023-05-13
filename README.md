@@ -58,7 +58,7 @@
 <br>
 
 ##
-<img align="right" alt="gif" src="https://github.com/DevNicolasLacerda/gif/blob/main/Nickzz.gif" width="150" height="150" />
+<img align="left" alt="gif" src="https://github.com/DevNicolasLacerda/gif/blob/main/Nickzz.gif" width="150" height="150" />
 
  <br>
   <br>
