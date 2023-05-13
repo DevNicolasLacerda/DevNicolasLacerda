@@ -59,9 +59,9 @@
 
 ##
 
-<div align="left">
-  <img align="left" alt="gif" src="https://github.com/DevNicolasLacerda/gif/blob/main/Nickzz.gif" width="150" height="150" />
-</div>
+
+  <img align="right" alt="gif" src="https://github.com/DevNicolasLacerda/gif/blob/main/Nickzz.gif" width="150" height="150" />
+
 
 <div style="display: inline_block"> 
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devnicolaslacerda&show_icons=true&locale=en&layout=compact&theme=dracula" alt="devnicolaslacerda" />
