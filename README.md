@@ -63,21 +63,19 @@
  <br>
   <br>
 
-<div style="display: inline_block">
-  
+<div style="display: inline_block"> 
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devnicolaslacerda&show_icons=true&locale=en&layout=compact&theme=dracula" alt="devnicolaslacerda" />
   
   <br>
 
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=devnicolaslacerda&show_icons=true&locale=en&theme=dracula" alt="devnicolaslacerda" />
-
 </div>
-
-<br>
 
 <div align="left">
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devnicolaslacerda&theme=dracula" alt="devnicolaslacerda" />
 </div>
+
+<br>
 
 <div align="center">
 
