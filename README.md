@@ -26,11 +26,7 @@
   
    <p align="left">
      <br>
-     Olá me chamo Nicholas, sou um jovem determinado e ávido por aprender. Apesar de não possuir experiência no mercado de trabalho,
-     estou atualmente cursando um curso de Desenvolvimento de Sistemas de nível técnico na Escola Técnica Etec Lauro Gomes e vários outros cursos que faço à parte,
-     além disso, sou altamente motivado e possuo uma vontade inabalável de se desenvolver profissionalmente. Acredito que com minha curiosidade e disposição para enfrentar novos desafios, 
-     certamente serei capaz de adquirir rapidamente as habilidades necessárias para realizar com sucesso a função que me for atribuída. Além disso, tenho uma  energia e entusiasmo contagiantes
-     e almejo ser um grande desenvolvedor full-stack no futuro.
+     Olá, me chamo Nicholas, tenho 18 anos e sou um jovem determinado e ávido por aprender. Apesar de não possuir experiência no mercado de trabalho, estou atualmente cursando Desenvolvimento de Sistemas de nível técnico na Escola Técnica Etec Lauro Gomes, sou altamente motivado e possuo uma vontade inabalável de se desenvolver profissionalmente. Acredito que com minha curiosidade e disposição para enfrentar novos desafios, certamente serei capaz de adquirir rapidamente as habilidades necessárias para realizar com sucesso a função que me for atribuída. Sou um eterno amante da programação e Tecnologia < ❤️ />
    </p>
    <br>
 
@@ -62,15 +58,11 @@
 
   <img align="right" alt="gif" src="https://github.com/DevNicolasLacerda/gif/blob/main/Nickzz.gif" width="150" height="150" />
 
-
-<div style="display: inline_block"> 
+<div align="left"> 
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devnicolaslacerda&show_icons=true&locale=en&layout=compact&theme=dracula" alt="devnicolaslacerda" />
-  
-  <br><br>
-
+<br><br>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=devnicolaslacerda&show_icons=true&locale=en&theme=dracula" alt="devnicolaslacerda" />
 </div>
-
 <br>
 
 <div align="left">
