@@ -96,7 +96,9 @@
 <h3 align="center">Tem uma cobra comendo meu commits 🐍</h3>
 
 <div align="center">
+  
   ![Snake animation](https://github.com/DevNicolasLacerda/DevNicolasLacerda/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 <br>
