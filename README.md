@@ -1,8 +1,14 @@
 
-<h1 align="center">Hi 👋, I'm NicholasDev</h1>
-<h3 align="center">Sejam bem vindos ao meu perfil!</></h3>
+<h1 align="center"><b>Hi , I'm Nicholas Lacerda </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Sejam+Bem-vindos+ao+meu+perfil!..&hearts;++;Sou+Front-End+Developer,;Estudante+de+Tecnologia+da+Informação,;Constante+aprendizado+e+desenvolvimento,;Amo+aprender+coisas+novas..<3"></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br>
-<h3 align="left">Sobre:</h3>
+<h3 align="left">Sobre mim 👨🏻‍💻</h3>
 <ul>
   <li>Desenvolvedor Full-Stack em progresso</li>
   <li>Estudando ReactJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/></li>
@@ -10,7 +16,7 @@
   <li>Estudando NodeJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></li>
   <li>Portifolio: Em desenvolvimento...</li>
 </ul>
-<h3 align="left">Entre em contato comigo:</h3>
+<h3 align="left">Entre em contato comigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px"></h3>
 
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/nicholas-lacerda-110abb271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank" width="100" height="40"></a>
@@ -46,23 +52,39 @@
 </details>
 <br>
 
-<h3 align="left">Linguagens e ferramentas:</h3>
+<h3 align="left">Linguagens e ferramentas <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3><br>
 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </a>
- <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a></p>
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  alt="sass" width="40" height="40" />    
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  <img src="https://th.bing.com/th/id/R.735ae7538ff993b3229a8fc203579f99?rik=l0wLOi4auba%2fZA&pid=ImgRaw&r=0" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  alt="nodejs" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</p>  
 
 <br>
 
 ##
+<h3 align="left">Git Hub Stats ⚙️</h3>
 
-
-  <img align="right" alt="gif" src="https://github.com/DevNicolasLacerda/gif/blob/main/Nickzz.gif" width="150" height="150" />
+<img align="right" alt="gif" src="https://github.com/DevNicolasLacerda/gif/blob/main/Nickzz.gif" width="150" height="150" />
 
 <div align="left"> 
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devnicolaslacerda&show_icons=true&locale=en&layout=compact&theme=dracula" alt="devnicolaslacerda" />
-<br><br>
+  <br><br>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=devnicolaslacerda&show_icons=true&locale=en&theme=dracula" alt="devnicolaslacerda" />
 </div>
+
 <br>
 
 <div align="left">
@@ -71,10 +93,17 @@
 
 <br>
 
-<div align="center">
+<h3 align="center">Tem uma cobra comendo meu commits 🐍</h3>
 
+<div align="center">
   ![Snake animation](https://github.com/DevNicolasLacerda/DevNicolasLacerda/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
+
+<br>
+
+Créditos: <a href="https://github.com/DevNicolasLacerda">DevNicolasLacerda</a>
+
+Última vez editado em: 10/06/2023
+
 
 
