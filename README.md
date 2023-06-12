@@ -78,7 +78,7 @@
 <h3 align="left">Git Hub Stats ⚙️</h3>
 
 <img align="right" alt="gif" src="https://github.com/DevNicolasLacerda/gif/blob/main/Nickzz.gif" width="150" height="150" />
-
+<br>
 <div align="left"> 
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devnicolaslacerda&show_icons=true&locale=en&layout=compact&theme=dracula" alt="devnicolaslacerda" />
   <br><br>
@@ -93,7 +93,7 @@
 
 <br>
 
-<h3 align="center">Tem uma cobra comendo meu commits 🐍</h3>
+<h3 align="center">Tem uma cobra comendo meus commits 🐍</h3>
 
 <div align="center">
   
